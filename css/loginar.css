@@ -1,0 +1,150 @@
+.facar {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(236, 236, 236);
+    direction: rtl;
+}
+
+.login {
+    display: flex;
+}
+
+.h1p {
+    /* position: relative; */
+    margin-top: 190px;
+    margin-right: 130px;    
+}
+
+.h1 {
+    position: absolute;
+    font-size: 52px;
+    color: blue;
+    font-weight: bold;
+    margin-right: 75px;
+}
+
+.h4 {
+    position: absolute;
+    margin-top: 100px;
+    margin-right: 70px;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.card {
+    background-color: white;
+    height: 343px;
+    width: 420px;
+    /* position: relative; */
+    margin-top: 125px;
+    margin-right: 650px;
+    border-radius: 10px;
+}
+
+.text {
+    height: 50px;
+    width: 380px;
+    margin-right: 16px;
+    margin-top: 15px;
+    border-radius: 6px;
+    border: 1px solid rgb(235, 232, 232);
+    font-weight: bold;
+}
+
+.text:hover {
+    border: blue;
+    height: 50px;
+    width: 380px;
+}
+
+.password {
+    height: 50px;
+    width: 380px;
+    margin-right: 16px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(235, 232, 232);
+    font-weight: bold;
+}
+
+.password:hover {
+    border: blue;
+    height: 50px;
+    width: 380px;
+}
+
+.submit {
+    height: 50px;
+    width: 390px;
+    margin-right: 15px;
+    margin-top: 15px;
+    background-color: blue;
+    color: white;
+    border: blue;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.forget {
+    margin-right: 15px;
+    margin-top: 20px;
+    background-color: white;
+    height: 40px;
+    width: 390px;
+    text-align: center;
+    border-bottom:  1px solid gainsboro;
+    color: blue;
+    font-weight: bold;
+}
+
+.Create {
+    height: 45px;
+    width: 142px;
+    margin-right: 133px;
+    margin-top: 18px;
+    background-color: rgb(10, 180, 24);
+    color: white;
+    border: rgb(10, 180, 24);
+    border-radius: 6px;
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.aaaa {
+    margin-right: 810px;
+}
+.a {
+    color: black;
+}
+
+.aa {
+    color: black;
+}
+
+.aaa {
+    color: black;
+}
+
+.span {
+    font-weight: bold;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+.an {
+    position: absolute;
+    right: 1240px;
+    bottom: 0;
+    font-weight: bold;
+}
+
+.an:hover {
+    border: blue;
+    height: 20px;
+    width: 126px;
+}
